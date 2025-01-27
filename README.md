@@ -48,6 +48,8 @@ The objective is to build a model that predicts deepfake labels for test images 
 4. **Output**:
    - Predicted labels for test images.
 
+---
+
 ## **Model Architecture**
 The CNN architecture used:
 - **Convolutional Layers**: For feature extraction.
