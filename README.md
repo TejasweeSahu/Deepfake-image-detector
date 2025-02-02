@@ -61,7 +61,6 @@ The CNN architecture used:
 
 ## **Results**
 The model achieved:
-- High accuracy(0.8696) on validation data.
-- Robust predictions on unseen test data.
+- High accuracy of 0.8696 on training dataset and 0.7000 on validation dataset.
 
 
